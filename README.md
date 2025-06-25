@@ -16,7 +16,7 @@ Follow these instructions to set up and run the project on your local machine.
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/kmeans-clustering.git
+   git clone https://github.com/rohitdubeysoftway/unsupervised-learning.git
    cd kmeans-clustering
    ```
 
